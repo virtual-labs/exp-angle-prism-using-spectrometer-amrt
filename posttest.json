@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the function of collimator in spectrometer?",
+      "answers": {
+        "a": "Produce diverged beam of light",
+        "b": "Produce parallel beam of light.",
+        "c": "Illuminate the prism.",
+        "d": "Produce converged beam of light"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Angular dispersion of a prism means.......",
+      "answers": {
+        "a": "Sum of the deviations between two colours.",
+        "b": "Difference of the deviations between two colours.",
+        "c": "Angle between reflected ray and refracted ray",
+        "d": "Angle between the direct ray reading and minimum deviation."
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "A ray of light incident at an angle of 20<sup>0</sup> is reflected back from a plane mirror the angle between incident and reflected ray is?",
+      "answers": {
+        "a": "60<sup>0</sup>",
+        "b": "40<sup>0</sup>",
+        "c": "50<sup>0</sup>",
+        "d": "20<sup>0</sup>"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

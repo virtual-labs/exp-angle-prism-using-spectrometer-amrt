@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the least count of Spectrometer apparatus in simulator?",
+      "answers": {
+        "a": "1'",
+        "b": "1''",
+        "c": "10'",
+        "d": "10''"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How does the refractive index changes with wave length ?",
+      "answers": {
+        "a": "Remains constant",
+        "b": "Decrease with increase in wave length",
+        "c": "Exponential decrease",
+        "d": "Increase with increase in wave length"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
