@@ -33,7 +33,7 @@ When a collimated beam of light from the spectrometer’s collimator strikes the
 </div>
 
 ### Principle
-The angle between the two reflected rays (one from each of the two refracting faces of the prism) is measured using the telescope. Let this angle be denoted as $\theta$. This angle is geometrically related to the angle of the prism. When the prism is properly placed on the prism table and the telescope is used to align with both reflected rays successively, the angle between the two telescope positions corresponds to $\theta$, the angle between the reflected rays.
+The angle between the two reflected rays (one from each of the two refracting faces of the prism (Figure 3)) is measured using the telescope. Let this angle be denoted as $\theta$. This angle is geometrically related to the angle of the prism. When the prism is properly placed on the prism table and the telescope is used to align with both reflected rays successively, the angle between the two telescope positions corresponds to $\theta$, the angle between the reflected rays.
 
 Using basic geometry, the angle of the prism $A$ can be calculated using the following relation:
 
