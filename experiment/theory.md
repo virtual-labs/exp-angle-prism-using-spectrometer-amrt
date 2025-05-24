@@ -11,11 +11,11 @@ When a beam of light strikes on the surface of transparent material (Glass, wate
 
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: center;">
-<div style="max-width: 600px;">
+<div style="max-width: 300px;">
 <img src="./images/figure1.jpg" alt="Figure 1" style="width: 100%; height: auto;">
 <p style="font-size: smaller; font-style: italic;">Figure 2: A beam of light reflect from the two phase of prism</p>
 </div>
-<div style="max-width: 600px;">
+<div style="max-width: 300px;">
 <img src="./images/figure2.jpg" alt="Figure 2" style="width: 100%; height: auto;">
 <p style="font-size: smaller; font-style: italic;">Figure 3</p>
 </div>
