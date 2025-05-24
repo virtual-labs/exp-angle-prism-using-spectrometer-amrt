@@ -6,7 +6,7 @@ A prism is a transparent optical element with flat, polished surfaces that refra
 
 **A triangular prism has:**
 - Two refracting faces: The inclined surfaces through which light enters and exits.
-- A base: The surface opposite to the refracting edge of the prism.
+- A base: It is the grounded face of the prism (The surface opposite to the refracting edge of the prism).
 - An angle of the prism (A): The angle between the two refracting faces.
 
 When a collimated beam of light from the spectrometer’s collimator strikes the first refracting face of the prism, part of the light is refracted into the prism while a portion is reflected back. Similarly, light striking the second refracting face is also partially reflected. These two reflected rays, one from each face, emerge from the prism and can be observed through the telescope of the spectrometer.
